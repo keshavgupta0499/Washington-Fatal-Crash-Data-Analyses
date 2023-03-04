@@ -1,6 +1,8 @@
 # Washington Fatal Crash Data Analyses
 
 Team Members - Keshav Gupta, Soham Pawaskar, Gabriel Duran
+
+
 The Washington Traffic Safety Commission has given us the opportunity to help them analyze the
 Washington Fatal crash data, which includes the fatal crashes which took place in the past six years from
 2017-2022. The data that they have provided is a comprehensive collection of fatal crashes.
